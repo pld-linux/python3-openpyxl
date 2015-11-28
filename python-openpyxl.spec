@@ -6,7 +6,7 @@ Summary:	A Python library to read/write Excel 2007 xlsx/xlsm files
 Summary(pl.UTF-8):	Biblioteka umożliwiająca tworzenie plików w formacie xlsx/xlsm dla języka Python.
 Name:		python-%{module}
 Version:	1.6.1
-Release:	1
+Release:	2
 License:	MIT/Expat
 Group:		Development/Languages/Python
 Source0:	https://pypi.python.org/packages/source/o/%{module}/%{module}-%{version}.tar.gz
