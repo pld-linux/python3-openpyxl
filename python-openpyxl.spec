@@ -14,7 +14,7 @@ Source0:	https://pypi.python.org/packages/source/o/%{module}/%{module}-%{version
 URL:		http://bitbucket.org/ericgazoni/openpyxl/wiki/Home
 BuildRequires:	python-distribute
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 Requires:	python-modules
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
