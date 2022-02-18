@@ -2,12 +2,12 @@
 Summary:	A Python library to read/write Excel 2007 xlsx/xlsm files
 Summary(pl.UTF-8):	Biblioteka umożliwiająca tworzenie plików w formacie xlsx/xlsm dla języka Python.
 Name:		python3-%{module}
-Version:	3.0.6
-Release:	2
+Version:	3.0.9
+Release:	1
 License:	MIT
 Group:		Development/Languages/Python
 Source0:	https://pypi.python.org/packages/source/o/%{module}/%{module}-%{version}.tar.gz
-# Source0-md5:	bfcd5a08491e4ac72c61d87d2bb22bb5
+# Source0-md5:	d4e7a3bd87b5854df49fc60ddd54ecda
 URL:		https://openpyxl.readthedocs.io
 BuildRequires:	python3-modules >= 1:3.6
 BuildRequires:	python3-setuptools
